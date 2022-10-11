@@ -1,5 +1,6 @@
 # Arduino workshop
 
-Arduino workshop til Coding Pirates.
+Arduino Workshop i Coding Pirates Lyngby, Oktober-November 2022, 
+af Mikkel Holm Olsen.
 
 
